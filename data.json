@@ -1,0 +1,58 @@
+[
+    {
+        "ranking": 1,
+        "name": "Eiden",
+        "points": 2430,
+        "status": "up",
+        "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde"
+    },
+    {
+        "ranking": 2,
+        "name": "Jackson",
+        "points": 1847,
+        "status": "down",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d"
+    },
+    {
+        "ranking": 3,
+        "name": "Emma Aria",
+        "points": 1674,
+        "status": "up",
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9"
+    },
+    {
+        "ranking": 4,
+        "name": "Liam Noah",
+        "points": 1560,
+        "status": "down",
+        "image": "https://images.unsplash.com/photo-1520813792240-56fc4a3765a7"
+    },
+    {
+        "ranking": 5,
+        "name": "Olivia Grace",
+        "points": 1450,
+        "status": "up",
+        "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
+    },
+    {
+        "ranking": 6,
+        "name": "Mason Oliver",
+        "points": 1370,
+        "status": "down",
+        "image": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39"
+    },
+    {
+        "ranking": 7,
+        "name": "Ava Sophia",
+        "points": 1290,
+        "status": "up",
+        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
+    },
+    {
+        "ranking": 8,
+        "name": "James Lucas",
+        "points": 1220,
+        "status": "down",
+        "image": "https://images.unsplash.com/photo-1519340333755-56e9c8174e79"
+    }
+]
