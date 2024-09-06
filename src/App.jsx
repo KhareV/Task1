@@ -8,7 +8,7 @@ function App() {
     <div className="min-h-screen bg-blue-50 flex flex-col items-center py-8">
       <Heading />
       <div className="flex justify-between items-start w-full px-10 mt-10">
-        <Leaderboard />
+        
         <Table />
       </div>
     </div>
