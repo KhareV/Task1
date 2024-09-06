@@ -1,6 +1,6 @@
 import React from 'react';
 import data from '../../public/data.json';
-
+import Leaderboard from './Leaderboard';
 const Table = () => {
     const tableData = data.slice(3);
 
